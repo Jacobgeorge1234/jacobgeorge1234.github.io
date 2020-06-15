@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+body {
+ background-image: url("back.png");
+ background-color: #464646;
+    background-size: 1700px;
+    padding: 0px;
+    margin: 0px;
+    background-repeat: no-repeat;
+}
+
+
+h1{
+    
+    font-size: 50px;
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+   margin-left: 750
+}
+.text{
+    font-family: "Roboto";
+    font-size: 50px;
+    margin-top: 1660px;
+    font-weight: bold;
+    color: white;
+    margin-left: 850;
+    
+}
